@@ -2,7 +2,7 @@
 
 ### 사진
 
-![main]()
+![main](./main.png)
 
 ### 설치
 
@@ -44,3 +44,9 @@
 - 다운로드
 - git pull origin master (다운로드)
 - npm install (의존성 다운로드 - node_modules 설치)
+
+### Git 규칙
+
+- 변수명
+  - 변수명 + 속성 (ex: Style)
+  - div ===> Box
